@@ -14,3 +14,14 @@ A machine learning model to predict heart disease using **KNN** and **SVM**, ach
 1. Clone the repo:
    ```bash
    git clone https://github.com/your-username/Heart-Disease-Prediction.git
+   
+2. Install dependencies:
+   pip install -r requirements.txt
+   
+4. Run the Jupyter Notebook:
+   jupyter notebook HeartDisease_Prediction.ipynb
+
+##  📊 Results
+Model	Accuracy	Precision	Recall
+SVM	88%	0.87	0.93
+KNN	67%	0.74	0.65
